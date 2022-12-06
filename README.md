@@ -3,7 +3,7 @@ This is a stock profit loss calculator app, Where user can Enter the stock detai
 
 
 
-## [LIVE](https://nk-stock-profit-loss-calculator.netlify.app/)
+## [LIVE](https://stock-profit-calculator-sakshi.netlify.app/)
 
 ---
 
