@@ -7,7 +7,7 @@ This is a stock profit loss calculator app, Where user can Enter the stock detai
 
 ---
 
-![Demo](/icons/app-ss-org.png)
+
 
 ---
 <br/>
